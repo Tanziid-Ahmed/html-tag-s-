@@ -3,7 +3,7 @@
     <head>
         <title>HTML code tag(s)s' Table</title>
       <style>
-          body {background-color : lightblue}
+          body {background-color : white}
       </style>
     </head>
     <body>
